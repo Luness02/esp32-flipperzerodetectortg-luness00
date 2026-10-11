@@ -3,7 +3,7 @@
 Bu proje, çevredeki Flipper Zero cihazlarını (veya benzer BLE/Wi-Fi spam ve test sinyallerini) tespit ederek anında Telegram üzerinden bildirim gönderen taşınabilir bir ESP32 tarayıcı aracıdır.
 
 <p align="center">
-    <img src="doc/images/logo.png" alt="Logo">
+    <img src="logo.png" alt="Logo">
 </p>
 
 ## Özellikler
