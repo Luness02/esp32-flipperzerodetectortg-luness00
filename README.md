@@ -1,4 +1,4 @@
-# ESP32 Flipper Radar (esp32-flipper-radar-luness02)
+# ESP32 Flipper Radar (esp32-flipperzerodetectortg-luness00)
 
 Bu proje, çevredeki Flipper Zero cihazlarını (veya benzer BLE/Wi-Fi spam ve test sinyallerini) tespit ederek anında Telegram üzerinden bildirim gönderen taşınabilir bir ESP32 tarayıcı aracıdır.
 
